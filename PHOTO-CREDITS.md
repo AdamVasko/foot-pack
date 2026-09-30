@@ -1,28 +1,100 @@
 # Crédits photographiques
 
-Photos de Wikimedia Commons, affichées recadrées avec CSS. Notes et raretés propres au jeu, aucune affiliation aux joueurs.
+Photos Wikimedia Commons affichées recadrées par CSS. Notes propres au jeu.
 
-- **Scott Carson** — The original uploader was Jonesy702 at English Wikipedia.. [Photo source](https://commons.wikimedia.org/wiki/File:Carson%2C_Scott.jpg). [Public domain](undefined).
-- **Jonjo Shelvey** — Matlock-Photo. [Photo source](https://commons.wikimedia.org/wiki/File:Jonjo_Shelvey_England_U21.jpg). [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).
-- **Andy Carroll** — Egghead06. [Photo source](https://commons.wikimedia.org/wiki/File:AndyCarrollSeptember2015.JPG). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-- **Eric Dier** — Steffen Prößdorf. [Photo source](https://commons.wikimedia.org/wiki/File:2020-03-10_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League_Achtelfinale%2C_RB_Leipzig_-_Tottenham_Hotspur_1DX_3691_by_Stepro.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-- **Harry Maguire** — UK Prime Minister. [Photo source](https://commons.wikimedia.org/wiki/File:Harry_Maguire_2023_(cropped).jpg). [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).
-- **Jordan Henderson** — Bryan Berlin. [Photo source](https://commons.wikimedia.org/wiki/File:Jordan_Henderson_England_v_Ghana_23_June_2026-029_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-- **Olivier Giroud** — MHSC TV - Montpellier Hérault Sport Club. [Photo source](https://commons.wikimedia.org/wiki/File:Olivier_Giroud_December_2024.png). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0).
-- **Lucas Digne** — Bryan Berlin. [Photo source](https://commons.wikimedia.org/wiki/File:Lucas_Digne_France_v_Norway_26_June_26-043.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-- **Marcus Rashford** — Bryan Berlin. [Photo source](https://commons.wikimedia.org/wiki/File:Marcus_Rashford_England_v_Ghana_23_June_2026-073.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-- **Jack Grealish** — Hameltion. [Photo source](https://commons.wikimedia.org/wiki/File:ManCity20240722-017_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-- **Kai Havertz** — Bryan Berlin. [Photo source](https://commons.wikimedia.org/wiki/File:Kai_Havertz_Ecuador_v_Germany_25_June_2026-118.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-- **Achraf Hakimi** — Bryan Berlin. [Photo source](https://commons.wikimedia.org/wiki/File:Achraf_Hakimi_Morocco_v_Norway_7_June_2026-16.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-- **Mohamed Salah** — Bryan Berlin. [Photo source](https://commons.wikimedia.org/wiki/File:Mohamed_Salah_Argentina_v_Egypt_7_July_2026-163_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-- **Virgil van Dijk** — Ailura. [Photo source](https://commons.wikimedia.org/wiki/File:20160604_AUT_NED_8876_(cropped).jpg). [CC BY-SA 3.0 at](https://creativecommons.org/licenses/by-sa/3.0/at/deed.en).
-- **Kevin De Bruyne** — Bryan Berlin. [Photo source](https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-- **Robert Lewandowski** — Sven Mandel. [Photo source](https://commons.wikimedia.org/wiki/File:2019147183134_2019-05-27_Fussball_1.FC_Kaiserslautern_vs_FC_Bayern_M%C3%BCnchen_-_Sven_-_1D_X_MK_II_-_0228_-_B70I8527_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-- **Neymar** — Bryan Berlin. [Photo source](https://commons.wikimedia.org/wiki/File:Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-- **Karim Benzema** — Zack. [Photo source](https://commons.wikimedia.org/wiki/File:Karim_Benzema_Pick.jpg). [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
-- **Luka Modrić** — Bryan Berlin. [Photo source](https://commons.wikimedia.org/wiki/File:Luka_Modric_Croatia_v_Portugal_2_July_2026-055.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-- **Manuel Neuer** — Bryan Berlin. [Photo source](https://commons.wikimedia.org/wiki/File:Manuel_Neuer_Ecuador_v_Germany_25_June_2026-148.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-- **Kylian Mbappé** — Bryan Berlin. [Photo source](https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Senegal_16_June_2026-391_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-- **Erling Haaland** — Bryan Berlin. [Photo source](https://commons.wikimedia.org/wiki/File:Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-- **Cristiano Ronaldo** — Bryan Berlin. [Photo source](https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-- **Lionel Messi** — Bryan Berlin. [Photo source](https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Scott Carson** — The original uploader was Jonesy702 at English Wikipedia.. [Photo](https://commons.wikimedia.org/wiki/File:Carson%2C_Scott.jpg). [Public domain](undefined).
+- **Jonjo Shelvey** — Matlock-Photo. [Photo](https://commons.wikimedia.org/wiki/File:Jonjo_Shelvey_England_U21.jpg). [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).
+- **Andy Carroll** — Egghead06. [Photo](https://commons.wikimedia.org/wiki/File:AndyCarrollSeptember2015.JPG). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Eric Dier** — Steffen Prößdorf. [Photo](https://commons.wikimedia.org/wiki/File:2020-03-10_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League_Achtelfinale%2C_RB_Leipzig_-_Tottenham_Hotspur_1DX_3691_by_Stepro.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Harry Maguire** — UK Prime Minister. [Photo](https://commons.wikimedia.org/wiki/File:Harry_Maguire_2023_(cropped).jpg). [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).
+- **Jordan Henderson** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Jordan_Henderson_England_v_Ghana_23_June_2026-029_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Olivier Giroud** — MHSC TV - Montpellier Hérault Sport Club. [Photo](https://commons.wikimedia.org/wiki/File:Olivier_Giroud_December_2024.png). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0).
+- **Lucas Digne** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Lucas_Digne_France_v_Norway_26_June_26-043.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Marcus Rashford** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Marcus_Rashford_England_v_Ghana_23_June_2026-073.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Jack Grealish** — Hameltion. [Photo](https://commons.wikimedia.org/wiki/File:ManCity20240722-017_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Kai Havertz** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Kai_Havertz_Ecuador_v_Germany_25_June_2026-118.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Achraf Hakimi** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Achraf_Hakimi_Morocco_v_Norway_7_June_2026-16.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Mohamed Salah** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Mohamed_Salah_Argentina_v_Egypt_7_July_2026-163_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Virgil van Dijk** — Ailura. [Photo](https://commons.wikimedia.org/wiki/File:20160604_AUT_NED_8876_(cropped).jpg). [CC BY-SA 3.0 at](https://creativecommons.org/licenses/by-sa/3.0/at/deed.en).
+- **Kevin De Bruyne** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Robert Lewandowski** — Sven Mandel. [Photo](https://commons.wikimedia.org/wiki/File:2019147183134_2019-05-27_Fussball_1.FC_Kaiserslautern_vs_FC_Bayern_M%C3%BCnchen_-_Sven_-_1D_X_MK_II_-_0228_-_B70I8527_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Neymar** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Karim Benzema** — Zack. [Photo](https://commons.wikimedia.org/wiki/File:Karim_Benzema_Pick.jpg). [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
+- **Luka Modrić** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Luka_Modric_Croatia_v_Portugal_2_July_2026-055.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Manuel Neuer** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Manuel_Neuer_Ecuador_v_Germany_25_June_2026-148.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Kylian Mbappé** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Senegal_16_June_2026-391_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Erling Haaland** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Cristiano Ronaldo** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Lionel Messi** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Tom Heaton** — Kelvin Stuttard. [Photo](https://commons.wikimedia.org/wiki/File:Tom_Heaton_playing_for_Burnley_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Adam Lallana** — PANNATHORN SUKMANONT. [Photo](https://commons.wikimedia.org/wiki/File:Adam_Lallana_in_Bangkok_(19721313015).jpg). [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).
+- **Ashley Young** — Кирилл Венедиктов. [Photo](https://commons.wikimedia.org/wiki/File:Ashley_Young_2018-06-13_1.jpg). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).
+- **James Milner** — Steffen Prößdorf. [Photo](https://commons.wikimedia.org/wiki/File:2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2223_by_Stepro.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Danny Welbeck** — Кирилл Венедиктов. [Photo](https://commons.wikimedia.org/wiki/File:Danny_Welbeck_2018-06-13_1.jpg). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).
+- **Conor Coady** — Timmy96. [Photo](https://commons.wikimedia.org/wiki/File:Conor_Coady_30082025_(1).jpg). [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).
+- **Nathan Redmond** — Timmy96. [Photo](https://commons.wikimedia.org/wiki/File:Nathan_Redmond_26042025_(3).jpg). [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).
+- **Ben Davies** — Steindy (talk) 16:11, 10 November 2016 (UTC). [Photo](https://commons.wikimedia.org/wiki/File:Ben_Davies_in_Austria_vs._Wales_2016-10-06_(118)_02.jpg). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).
+- **Davy Klaassen** — Carlo Bruil Fotografie. [Photo](https://commons.wikimedia.org/wiki/File:GAE_-_Ajax_-_52788472780_(Davy_Klaassen).jpg). [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).
+- **Daley Blind** — Станислав Ведмидь. [Photo](https://commons.wikimedia.org/wiki/File:Zarya-MU_(6)_%E2%80%94_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).
+- **Joe Allen** — Steindy (talk) 16:13, 10 November 2016 (UTC). [Photo](https://commons.wikimedia.org/wiki/File:AUT_vs._WAL_2016-10-06_(135)_02.jpg). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).
+- **Chris Wood** — Sebalston. [Photo](https://commons.wikimedia.org/wiki/File:Chris_Wood_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Aaron Ramsdale** — Oche180. [Photo](https://commons.wikimedia.org/wiki/File:Aaron_Ramsdale_2026.png). [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
+- **Nick Pope** — Charltonkyle. [Photo](https://commons.wikimedia.org/wiki/File:Nick_Pope_23-04-2016_1.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Kieran Trippier** — Кирилл Венедиктов. [Photo](https://commons.wikimedia.org/wiki/File:Kieran_Trippier_2018-07-14_1.jpg). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).
+- **Luke Shaw** — Ardfern. [Photo](https://commons.wikimedia.org/wiki/File:Luke_Shaw%2C_Manchester_United_v_Newcastle_United%2C_11_September_2021_(44)_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **John Stones** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:John_Stones_England_v_Ghana_23_June_2026-038.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Nathan Aké** — Zafer. [Photo](https://commons.wikimedia.org/wiki/File:Nathan_Ak%C3%A9_Fenerbah%C3%A7e_20260717_(5)_(cropped).jpg). [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
+- **Youri Tielemans** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Youri_Tielemans_USMNT_v_Belgium_Mar_28_2026-20_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **James Maddison** — KrispyKrumpets. [Photo](https://commons.wikimedia.org/wiki/File:James_Maddison_pre-match_training_(cropped).jpg). [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
+- **Ivan Toney** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Ivan_Toney_England_v_Ghana_23_June_2026-051.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Dominic Solanke** — Amy Martin Photography. [Photo](https://commons.wikimedia.org/wiki/File:Dominic_Solanke_at_Avatar_fire_and_ash_premiere_London_2025.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Wilfried Zaha** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Wilfried_Zaha_NYCFC_v_Charlotte_20_Sep_2025-022_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Denzel Dumfries** — Erjonallaraj. [Photo](https://commons.wikimedia.org/wiki/File:Edison_ndreca_inter_egnati_(cropped_Denzel_Dumfries).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Bruno Fernandes** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Bernardo Silva** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Bernardo_Silva_Croatia_v_Portugal_2_July_2026-238.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Diogo Jota** — Timmy96. [Photo](https://commons.wikimedia.org/wiki/File:Diogo_Jota_2025_Cropped.jpg). [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).
+- **Rafael Leão** — Agência Lusa. [Photo](https://commons.wikimedia.org/wiki/File:RafaelLe%C3%A3oPortugal23.jpg). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0).
+- **João Cancelo** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Joao_Cancelo_Croatia_v_Portugal_2_July_2026-002.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Frenkie de Jong** — Unknown authorUnknown author. [Photo](https://commons.wikimedia.org/wiki/File:Frenkie_De_Jong_(2025)_(cropped).png). [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
+- **Matthijs de Ligt** — Derivative work:  MajorPrince. [Photo](https://commons.wikimedia.org/wiki/File:2022-07-30_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFL-Supercup%2C_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_Matthijs_de_Ligt_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Memphis Depay** — Derivative work:  Joe Sins. [Photo](https://commons.wikimedia.org/wiki/File:Memphis_Depay_2019.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Antoine Griezmann** — Антон Зайцев. [Photo](https://commons.wikimedia.org/wiki/File:FRA-ARG_(10)_(cropped).jpg). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).
+- **Kingsley Coman** — Sven Mandel. [Photo](https://commons.wikimedia.org/wiki/File:Kingsley_Coman_(2019)_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Theo Hernández** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Theo_Hernandez_France_v_Senegal_16_June_2026-222_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Mike Maignan** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Mike_Maignan_France_v_Norway_26_June_26-132_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Bukayo Saka** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Bukayo_Saka_England_v_Ghana_23_June_2026-057_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Phil Foden** — Steffen Prößdorf. [Photo](https://commons.wikimedia.org/wiki/File:2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2613%2C_Phil_Foden.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Declan Rice** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Declan_Rice_England_v_Ghana_23_June_2026-150.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Jude Bellingham** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Jude_Bellingham_England_v_Ghana_23_June_2026-061_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Harry Kane** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Harry_Kane_England_v_Ghana_23_June_2026-219_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Jamal Musiala** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Jamal_Musiala_Ecuador_v_Germany_25_June_2026-174_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Florian Wirtz** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Florian_Wirtz_Ecuador_v_Germany_25_June_2026-181_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Joshua Kimmich** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Joshua_Kimmich_Ecuador_v_Germany_25_June_2026-149.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Antonio Rüdiger** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Antonio_Rudiger_Ecuador_v_Germany_25_June_2026-055_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Marc-André ter Stegen** — Government of Catalonia. [Photo](https://commons.wikimedia.org/wiki/File:Marc-Andre_Ter_Stegen_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada_CATPRESS.jpg). [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).
+- **Alisson Becker** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Alisson_Becker_Brazil_V_Morocco_13_June_2026-117_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Ederson** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Ederson_Brazil_V_Morocco_13_June_2026-14_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Vinícius Júnior** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Rodrygo** — Junta de Andalucía. [Photo](https://commons.wikimedia.org/wiki/File:Rodrygo_2023_(cropped).jpg). [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).
+- **Casemiro** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Casemiro_Brazil_V_Morocco_13_June_2026-76_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Marquinhos** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Marquinhos_Brazil_V_Morocco_13_June_2026-153_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Rodri** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Rodri_Argentina_v_Spain_19_July_2026-187_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Pedri** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Pedri_France_v_Spain_7.24.26-245.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Gavi** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Gavi_Argentina_v_Spain_19_July_2026-013.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Lamine Yamal** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Lamine_Yamal_France_v_Spain_7.24.26-142.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Dani Carvajal** — Rolandhino1. [Photo](https://commons.wikimedia.org/wiki/File:UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_Dani_Carvajal_10_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Sergio Ramos** — Real Madrid. [Photo](https://commons.wikimedia.org/wiki/File:Sergio_Ramos_Interview_2021_(cropped).jpg). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0).
+- **Thibaut Courtois** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Thibaut_Courtois_Belgium_v_USA_6_July_2026-076_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Lautaro Martínez** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Lautaro_Martinez_Argentina_v_Spain_19_July_2026-049_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Zinedine Zidane** — Hadi Abyar. [Photo](https://commons.wikimedia.org/wiki/File:Zinedine_Zidane_by_Tasnim_03.jpg). [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
+- **Ronaldinho** — Marcos Corrêa/PR. [Photo](https://commons.wikimedia.org/wiki/File:Ronaldinho_in_2019.jpg). [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).
+- **Ronaldo Nazário** — Lula Oficial. [Photo](https://commons.wikimedia.org/wiki/File:12.12.2025_%E2%80%93_Cerim%C3%B4nia_de_lan%C3%A7amento_do_SBT_News_-_54980664160_(cropped2).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Thierry Henry** — Web Summit. [Photo](https://commons.wikimedia.org/wiki/File:Thierry_Henry_(51649035951)_(cropped).jpg). [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).
+- **David Beckham** — Soccer Aid for Unicef. [Photo](https://commons.wikimedia.org/wiki/File:David_Beckham_UNICEF_(cropped2).jpg). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0).
+- **Andrés Iniesta** — Bryan Berlin. [Photo](https://commons.wikimedia.org/wiki/File:Andr%C3%A9s_Iniesta_Argentina_v_Spain_19_July_2026-034_(cropped).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Xavi** — Doha Stadium Plus Qatar. [Photo](https://commons.wikimedia.org/wiki/File:Xavi%20Hernandez%20-%2030827264903%20(cropped).jpg). [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).
+- **Gianluigi Buffon** — MichaelEmilio. [Photo](https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_A_44_(Gianluigi_Buffon).jpg). [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
+- **Paolo Maldini** — GOAL TV. [Photo](https://commons.wikimedia.org/wiki/File:Paolo_Maldini_AC_Milan_Technical_director_2018.jpg). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0).
+- **Roberto Carlos** — Web Summit. [Photo](https://commons.wikimedia.org/wiki/File:LS3_1288_(53332367864)_(cropped).jpg). [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).
+- **Didier Drogba** — Y.Leclercq©. [Photo](https://commons.wikimedia.org/wiki/File:Didier_Drogba_(2019)_(cropped2).jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Samuel Eto’o** — BACHELOR45. [Photo](https://commons.wikimedia.org/wiki/File:Sammuel_Eto'o_Fils_02.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
